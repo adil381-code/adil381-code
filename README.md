@@ -1,163 +1,122 @@
-<!-- FUTURISTIC HEADER -->
-<div align="center">
+<!-- PROFILE HEADER -->
 
-<img src="https://img.shields.io/badge/Adil-%20AI%20Engineer-%2300F0FF?style=for-the-badge&logo=ai&logoColor=white" height="40"/>
-
-<h1 align="center" style="font-weight:900; font-size: 42px;">
-  ⚡ Adil — Architecting Intelligent Systems
-</h1>
-
-<p style="font-size: 16px;">
-Transforming data, algorithms, and automation into real-world AI solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/ADIL-AI%20ENGINEER-FFD700?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+ML+Developer+%7C+Automation+Architect;Building+Agents+That+Think+%26+Act;RAG+Systems+%7C+LLMs+%7C+Python+Engineering;Turning+Ideas+Into+Production+AI"/>
-</div>
+<h1 align="center">Adil — Architecting Intelligent Systems</h1>
+
+<p align="center">
+  Transforming data, models, and automation into reliable AI products.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=F6E27F&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+ML+Developer+%7C+Automation+Architect;RAG+Systems+%7C+LLMs+%7C+Python+Backends;From+idea+%E2%9E%A1%EF%B8%8F+deployed+AI+solution" />
+</p>
 
 ---
 
-<!-- NEON ABOUT SECTION -->
-<h2 align="center">🌐 About Me</h2>
+## 🧭 About Me
 
-<div align="center">
+> “Don’t just build models. Build systems that deliver outcomes.”
 
-<img src="https://github.com/adel-rahman/adel-rahman/blob/main/assets/line-blue.gif" width="80%">
+I’m **Adil**, an **AI Engineer based in Islamabad**, focused on designing and shipping **end-to-end AI and automation solutions**:
 
-</div>
+- 🧠 Large Language Models & **LLM-based agents**
+- 🤖 **Automation workflows** that actually replace manual work
+- 📊 **Data pipelines & ML models** ready for production
+- 🔗 **RAG systems & API-driven backends** using Python and FastAPI
 
-I'm Adil — an **AI Engineer from Islamabad** who builds systems that  
-**understand, reason, make decisions, and automate tasks end-to-end.**
-
-I don’t build demo notebooks.  
-I build **production-ready AI**, combining:
-
-- 🤖 **LLM Agents & Automation Pipelines**  
-- 🧠 **Machine Learning & Model Deployment**  
-- 📡 **API-driven RAG Systems**  
-- ⚙️ **Event-based n8n + Python Workflows**  
-- 🛠️ **Backend services with FastAPI & Docker**
-
-My approach:  
-### **Practical. Scalable. Automated. Real.**
+🎓 BS Artificial Intelligence — Islamabad, Pakistan  
+📌 Interested in roles around **AI Engineering, ML Engineering, and Automation**.
 
 ---
 
-# 🎛️ **Tech Stack (Premium Grid Layout)**
+## 🛠️ What I Work With
 
-<div align="center">
+### 🧠 AI & Machine Learning
+- LLMs · RAG Systems · Classical ML  
+- Model training, evaluation, and experimentation  
 
-<table>
-<tr>
-<td align="center" width="180">
-  
-### 🔥 AI & ML  
-Python  
-LLMs  
-RAG Systems  
-TensorFlow / PyTorch  
+### ⚙️ Engineering & Automation
+- **Python**, FastAPI, REST APIs  
+- **n8n** for workflow orchestration  
+- Containerization with **Docker**
 
-</td>
-<td align="center" width="180">
+### 📊 Data & Analytics
+- **Pandas**, **NumPy**, data cleaning & feature engineering  
+- **SQL** and analytical querying  
+- Basic visualisation with Matplotlib / Plotly
 
-### ⚙️ Engineering  
-FastAPI  
-Docker  
-n8n Automation  
-API Design  
-
-</td>
-<td align="center" width="180">
-
-### 📊 Data Workflows  
-Pandas  
-NumPy  
-SQL  
-Vector Databases  
-
-</td>
-</tr>
-</table>
-
-</div>
+> My goal is always the same: **clean data in → reliable predictions & actions out.**
 
 ---
 
-# 🚀 **Signature Projects**
+## 🧩 Systems I Like to Build
 
-### ⚡ **1. COMMAND AI — Autonomous Automation Agent**
-A high-level agent capable of:
+### 1️⃣ AI Operations Agent
+An LLM-driven assistant that can:
+- call tools & APIs  
+- trigger workflows  
+- summarize, decide, and act  
 
-- reasoning & tool selection  
-- executing API actions  
-- handling long task loops  
-- integrating n8n & Python micro-services  
-
----
-
-### ⚡ **2. Titan ML Pipeline — End-to-End Production System**
-Raw → Cleaned → Engineered → Trained → Served → Monitored
-
-Includes:
-
-- feature store  
-- versioned models  
-- REST inference API  
-- logging & evaluation  
+Designed as a **layer between humans and infrastructure**.
 
 ---
 
-### ⚡ **3. Infinity RAG Engine — Private Knowledge Intelligence**
-- vector search  
-- dynamic context building  
-- LLM-powered answering  
-- fully modular architecture  
+### 2️⃣ Production ML Pipeline
+A full path from raw data to live endpoint:
+
+1. Ingestion & validation  
+2. Feature engineering  
+3. Model training & selection  
+4. Serving via FastAPI  
+5. Monitoring & iteration  
 
 ---
 
-### ⚡ **4. n8n HyperFlow — Complete AI Automation Workflow**
-A fully automated orchestration layer combining:
+### 3️⃣ RAG Knowledge Engine
+Private-data intelligence system:
 
-- triggers  
-- AI decisions  
-- external systems  
-- reporting  
-- error handling  
+- document chunking & embeddings  
+- vector search & ranking  
+- context-aware LLM answers with sources  
 
 ---
 
-# 🔥 **GitHub Analytics (Neon Style)**
+### 4️⃣ Automation with n8n + Python
+Event-driven workflows that:
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adil381&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adil381&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
-
-</div>
+- listen to triggers (webhooks, schedules, events)  
+- call AI models or custom Python services  
+- send notifications, emails, or updates  
 
 ---
 
-# 🌍 **Connect With Me**
+## 📊 GitHub Snapshot
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/m-adil-272262373/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
-</a>
-
-<a href="mailto:adiltaha381@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adil381-code&show_icons=true&theme=highcontrast&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil381-code&theme=highcontrast&hide_border=true" height="160" />
+</p>
 
 ---
 
-# ⚡ Final Thought
+## 🤝 Let’s Connect
 
-<div align="center" style="font-size: 18px; font-weight: 500;">
-AI isn’t the future.  
-<br>
-It’s the system I’m building today.  
-<br><br>
-<b>— Adil</b>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-adil-272262373/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adiltaha381@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-adiltaha381%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Closing Line
+
+If it’s repetitive, predictable, or boring,  
+I’m probably planning to **automate it with AI.**
